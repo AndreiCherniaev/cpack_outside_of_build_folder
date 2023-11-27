@@ -3,7 +3,7 @@ This proj based on https://github.com/AndreiCherniaev/QCoreApplication_quit_exam
 ```
 git clone https://github.com/AndreiCherniaev/cpack_outside_of_build_folder
 cd cpack_outside_of_build_folder
-cmake -S src/ -B build/ -DCMAKE_BUILD_TYPE=Release
+cmake -S src/ -B build/ -DCMAKE_BUILD_TYPE=Release --fresh
 cmake --build build/ --parallel
 cmake --install build/
 ```
