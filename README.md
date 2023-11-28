@@ -1,4 +1,4 @@
-This proj based on https://github.com/AndreiCherniaev/QCoreApplication_quit_example
+Use this repo to reproduce my steps for cpack https://stackoverflow.com/questions/77554809/cpack-b-build-fails-in-parent-directory
 ## Clone and build
 ```
 git clone https://github.com/AndreiCherniaev/cpack_outside_of_build_folder
